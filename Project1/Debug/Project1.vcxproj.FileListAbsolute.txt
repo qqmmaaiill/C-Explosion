@@ -1,0 +1,2 @@
+D:\GL\Project1\Debug\C++ Explosion.exe
+D:\GL\Project1\Debug\C++ Explosion.pdb

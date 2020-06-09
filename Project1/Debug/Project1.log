@@ -1,0 +1,9 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(467,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Project1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Particle.cpp
+  Screen.cpp
+  Source.cpp
+D:\GL\Project1\Source.cpp(56,10): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\GL\Project1\Source.cpp(57,10): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Swarm.cpp
+  Generating Code...
+  Project1.vcxproj -> D:\GL\Project1\Debug\C++ Explosion.exe
